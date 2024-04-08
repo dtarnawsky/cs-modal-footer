@@ -1,0 +1,7 @@
+{
+  "name": "cs-modal-footer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
